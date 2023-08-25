@@ -1,6 +1,6 @@
 # HCI Challenge - UXPERT
 
-Welcome to the **HCI Challenge - UXPERT** project, an immersive exploration into the world of Human-Computer Interaction (HCI) and user experience analysis. Immerse yourself in the process of dissecting user interactions on two platforms, gaining insights into user behavior, preferences, and needs.
+Welcome to the **HCI Challenge - UXPERT** project, an immersive exploration into the world of Human-Computer Interaction (HCI) and user experience analysis. Immerse yourself in the process of dissecting user interactions on two platforms, gaining insights into user behavior, preferences, and needs. 
 
 ## About the Project
 
